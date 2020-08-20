@@ -9,7 +9,6 @@ C:\subbu\samples\source\contoso\bin\Debug\netcoreapp3.1\contoso.dll
 C:\subbu\samples\source\contoso\bin\Debug\netcoreapp3.1\contoso.pdb
 C:\subbu\samples\source\contoso\bin\Debug\netcoreapp3.1\contoso.Views.dll
 C:\subbu\samples\source\contoso\bin\Debug\netcoreapp3.1\contoso.Views.pdb
-C:\subbu\samples\source\contoso\obj\Debug\netcoreapp3.1\contoso.csprojAssemblyReference.cache
 C:\subbu\samples\source\contoso\obj\Debug\netcoreapp3.1\contoso.AssemblyInfoInputs.cache
 C:\subbu\samples\source\contoso\obj\Debug\netcoreapp3.1\contoso.AssemblyInfo.cs
 C:\subbu\samples\source\contoso\obj\Debug\netcoreapp3.1\contoso.csproj.CoreCompileInputs.cache

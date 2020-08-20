@@ -1,0 +1,4 @@
+C:\subbu\samples\source\contoso\obj\Debug\netcoreapp2.1\contoso.csprojAssemblyReference.cache
+C:\subbu\samples\source\contoso\obj\Debug\netcoreapp2.1\contoso.AssemblyInfoInputs.cache
+C:\subbu\samples\source\contoso\obj\Debug\netcoreapp2.1\contoso.AssemblyInfo.cs
+C:\subbu\samples\source\contoso\obj\Debug\netcoreapp2.1\contoso.csproj.CoreCompileInputs.cache

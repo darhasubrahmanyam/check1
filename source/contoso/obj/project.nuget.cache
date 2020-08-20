@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIThQOu16Xw+LO+czsun+dfUppReCppyQbwSOQW5GESQTCZ/9priU7MoJ9DsE37K5zgtTwl9ekHTaIeNRIcLrA==",
+  "dgSpecHash": "LCQx8EOCRLngxV3OlUlBTUyRTmVEKV7ROvSWxiBlrfQVOD5cI4B1TUaIZkaGDdtpHv7IJI9n4qNpe1mjkP8rYg==",
   "success": true,
   "projectFilePath": "C:\\subbu\\samples\\source\\contoso\\contoso.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\subrahmanyam.darbha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
